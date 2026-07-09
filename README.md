@@ -10,7 +10,7 @@
 
 A modern, single-page portfolio website showcasing AI/ML engineering projects, technical skills, and professional background. Built with **React 19**, **Vite 8**, and **Framer Motion**, featuring a dark glassmorphism design with a signature neon-yellow (`#DFFF00`) accent.
 
-🔗 **Live:** [anujotsingh.dev]([https://anujotsingh.dev](https://portfolio-chi-lilac-27.vercel.app/))
+🔗 **Live:** [anujotsingh.dev](https://portfolio-chi-lilac-27.vercel.app/)
 
 ---
 
